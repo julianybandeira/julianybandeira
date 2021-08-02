@@ -1,13 +1,14 @@
-## Olá! Eu sou a Juliany Bandeira 
+# Olá! Eu sou Juliany Bandeira <h1>
 
-- 🌱 Estou no bootcamp da Labenu formação Web Full Stack 
+- 🌱 Estou no bootcamp da Labenu formação **Web Full Stack** 
 - 📫 Contate-me no e-mail: juliany12121989@gmail.com
+- 🗺️ Apaixonada por viajar
 - 😄 Pronouns: ela/ dela
 
 <div>
   <a href="https://github.com/julianybandeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianybandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianybandeira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianybandeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianybandeira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ##
