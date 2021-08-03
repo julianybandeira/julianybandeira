@@ -2,6 +2,7 @@
 
 - 🌱 Estou no bootcamp da Labenu formação **Web Full Stack** 
 - 💻 Aprendendo atualmente JavaScript/HTML/CSS
+- 📚 Em busca de aprendizado constante
 - 🗺️ Apaixonada por viajar
 - 😄 Pronouns: ela/ dela
 
