@@ -4,7 +4,7 @@
 - 💻 Aprendendo atualmente JavaScript/HTML/CSS
 - 📚 Em busca de aprendizados constantes
 - 🗺️ Apaixonada por viajar
-- 😄 Pronouns: ela/ dela
+- ❤:paw_prints: :dog2: :cat2: :cat2:
 
 ##
   
