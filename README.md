@@ -1,7 +1,8 @@
 # Olá! Eu sou Juliany Bandeira <h1>
 
+- 💡 **Consultora ServiceNow** 
 - 🌱 Estou cursando **Tecologia da Informação** e um bootcamp **Web Full Stack** 
-- 💻 Aprendendo atualmente JavaScript/HTML/CSS
+- 💻 Desenvolvendo projetos em JavaScript/HTML/CSS/React
 - 📚 Em busca de aprendizados constantes
 - 🗺️ Apaixonada por viajar
 - ❤:paw_prints: :dog2: :cat2: :cat2:
