@@ -2,7 +2,7 @@
 
 - 💡 **Consultora ServiceNow** 
 - 🌱 Cursando **Tecnologia da Informação** e MBA em **Gerenciamento de Projetos** 
-- 💻 Desenvolvendo projetos em JavaScript/HTML/CSS/React
+- 💻 Desenvolvendo projetos em JavaScript/HTML/CSS
 - 📚 Em busca de aprendizados constantes
 - 🗺️ Apaixonada por viajar
 - ❤:paw_prints: :dog2: :cat2: :cat2:
